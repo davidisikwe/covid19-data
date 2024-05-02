@@ -1,10 +1,19 @@
-html,body{
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+#root {
+  width: 100%;
+}
+
+html,
+body {
   margin: 0;
   padding: 0;
   height: 100vh;
 }
 
-body{
+body {
   display: flex;
   justify-content: center;
   align-items: center;
