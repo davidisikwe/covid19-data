@@ -27,17 +27,13 @@ Follow these steps to set up the project locally:
 
    ```
 
-2.
+2. ```bash
+   cd covid19-data
+   ```
 
-```bash
- cd covid19-data
-```
-
-3.
-
-```bash
-  npm install
-```
+3. ```bash
+     npm install
+   ```
 
 ## Usage
 
